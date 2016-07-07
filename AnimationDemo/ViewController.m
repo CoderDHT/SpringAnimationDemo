@@ -10,7 +10,7 @@
 #import "AnimationView.h"
 
 @interface ViewController ()
-@property (nonatomic, strong) IBOutlet AnimationView *animationView;
+@property (nonatomic, weak) IBOutlet AnimationView *animationView;
 @end
 
 @implementation ViewController
