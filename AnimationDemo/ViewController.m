@@ -26,8 +26,7 @@
 }
 
 - (void)initAnimationView {
-//    _animationView = [[AnimationView alloc] initWithFrame:self.view.bounds];
-    [self.view addSubview:_animationView];
+    // 模仿一次改动
 }
 
 @end
