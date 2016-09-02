@@ -26,7 +26,7 @@
 }
 
 - (void)initAnimationView {
-    // 模仿一次改动5
+    // 模仿一次改动6
 }
 
 @end
